@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pablorodriguezdev.github.io/dmp-studios/sitemap.xml
