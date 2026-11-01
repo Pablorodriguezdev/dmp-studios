@@ -1,0 +1,12 @@
+NTBT · Edición con estudio completo
+66 libros · 1.189 capítulos · 31.104 versículos.
+31.104 estudios en «nota» y 66 introducciones en «intro».
+
+FORMATOS DE INTEGRACIÓN
+JSON (schema 3): libros > capitulos > versiculos. Cada libro tiene codigo USFM y nombre; cada capítulo y versículo, numero. El texto bíblico está en texto. La edición con estudio añade intro al libro y nota al versículo, con HTML íntegro.
+Los campos opcionales encabezado, titulo y subtitulo contienen títulos; referencias contiene HTML de referencias. Se omiten cuando no hay contenido. La edición de texto omite completamente intro y nota.
+SQLite: libros(codigo, orden, nombre, intro*) y versiculos(libro, capitulo, versiculo, texto, encabezado*, titulo*, subtitulo*, referencias*, nota*). El asterisco identifica columnas opcionales; solo se incluyen cuando existen datos en la edición. intro y nota contienen HTML. La clave de un versículo es libro + capitulo + versiculo. metadatos contiene la identificación y atribución de la edición.
+Los códigos de libro siguen USFM (GEN, EXO, MAT, JHN, etc.). No se necesitan identificadores editoriales privados.
+USFM y USX 3.1: títulos principales en ms1, secciones en s1, subtítulos en s2 y referencias de sección en r. Las introducciones usan ip; los estudios por versículo, notas de estudio ef con fr y ft. En estos dos formatos el contenido se representa como texto compatible; JSON y SQLite conservan el HTML completo.
+Conserva la licencia, los créditos y la atribución que acompañan los materiales. Uso y distribución gratuitos conforme a la Licencia NTBT, sin regalías ni comisiones.
+Información y contacto: https://www.bibliatodo.com/ntbt/ · info@bibliatodo.com

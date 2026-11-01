@@ -1,0 +1,37 @@
+Historia y fidelidad bíblica
+
+Texto español NTBT © 2026 BibliaTodo LLC, en lo relativo a sus aportaciones propias. Publicado por BibliaTodo Bible Society, sello editorial de BibliaTodo LLC.
+
+Dirección y revisión editorial
+
+La dirección y revisión editorial de la Nueva Traducción BibliaTodo está a cargo de Carlos Colina, con el apoyo del equipo colaborador de BibliaTodo Bible Society.
+
+La revisión se realiza manualmente, versículo por versículo, mediante el cotejo del hebreo, el arameo y el griego, con atención al contexto, la gramática y los recursos literarios de cada pasaje. Se procura unir precisión, claridad y fuerza expresiva, conservando las formulaciones tradicionales que transmiten bien el sentido.
+
+Una Escritura transmitida a través de los siglos
+
+La historia manuscrita del Nuevo Testamento incluye fragmentos tempranos, como el Papiro Rylands 52, tradicionalmente fechado en el siglo II, y códices de gran importancia como el Sinaítico y el Vaticano, del siglo IV. Estos testimonios permiten estudiar la transmisión del texto griego a lo largo de los siglos.
+
+Para el Antiguo Testamento, la tradición masorética preserva el texto hebreo y los pasajes arameos. El Códice de Leningrado, del siglo XI, es uno de sus testigos completos fundamentales. La antigüedad de un manuscrito y su valor para un pasaje se consideran junto con los demás testimonios disponibles.
+
+Esta reseña sitúa la revisión en su historia textual. Las ediciones de cotejo utilizadas por NTBT se identifican a continuación; las variantes relevantes se atienden en el estudio de los pasajes correspondientes.
+
+Ediciones de cotejo y reconocimientos documentales
+
+Antiguo Testamento: texto masorético hebreo y arameo, en la edición Westminster Leningrad Codex (WLC), consultada junto con los recursos lingüísticos de Open Scriptures Hebrew Bible (OSHB). El texto WLC es de dominio público; los datos de OSHB se reconocen conforme a CC BY 4.0.
+
+Nuevo Testamento: SBL Greek New Testament (SBLGNT), edición de Michael W. Holmes, versión 1.2, utilizada para el cotejo del griego. La redacción española y las decisiones de estilo de NTBT corresponden a su propio trabajo editorial.
+
+Reconocimiento de la edición griega consultada: SBL Greek New Testament © 2010 Society of Biblical Literature y Logos Bible Software, bajo CC BY 4.0. Este aviso corresponde a esa edición griega; los derechos de las aportaciones propias del texto español NTBT corresponden a BibliaTodo LLC.
+
+Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb
+
+Las licencias abiertas de estas ediciones permiten su utilización con reconocimiento, incluso para fines comerciales. Su identificación documental es compatible con la autorización gratuita de distribución NTBT y no implica que esas entidades publiquen, patrocinen o certifiquen esta traducción.
+
+Edición griega SBLGNT y licencia: https://www.sblgnt.com/license/
+
+Licencia OSHB: https://github.com/openscriptures/morphhb/blob/master/LICENSE.md
+
+Licencia Creative Commons Atribución 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Texto legal de CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode
