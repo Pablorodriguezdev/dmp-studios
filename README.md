@@ -3,7 +3,8 @@
 Web oficial de DMP Studios, publicada con GitHub Pages desde la rama `main`.
 
 - Mi Biblia Católica y Aventura Lectiva: fichas, capturas, guías y descargas oficiales.
-- Biblia Evangélica: Luz y Fe y RahiCarb: próximos lanzamientos, identificados como en desarrollo.
+- Biblia Evangélica: Luz y Fe: próximo lanzamiento, sección destacada y capturas actuales.
+- RahiCarb: en desarrollo.
 - TimeCraft: ficha y capturas de la beta cerrada, con política de privacidad propia.
 - Créditos y licencia NTBT accesibles en la ficha de Luz y Fe.
 
